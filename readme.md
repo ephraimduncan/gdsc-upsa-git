@@ -1,3 +1,3 @@
-# Hello
+# Hi
 
 ## Welcome to GDSC UPSA
